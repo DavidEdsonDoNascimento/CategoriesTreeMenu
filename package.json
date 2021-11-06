@@ -1,0 +1,9 @@
+{
+  "name": "category-recursive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.0.0"
+  }
+}
